@@ -1,0 +1,15 @@
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.csproj.AssemblyReference.cache
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.GeneratedMSBuildEditorConfig.editorconfig
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.AssemblyInfoInputs.cache
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.AssemblyInfo.cs
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.csproj.CoreCompileInputs.cache
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/bin/Debug/net7.0/HW_task13
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/bin/Debug/net7.0/HW_task13.deps.json
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/bin/Debug/net7.0/HW_task13.runtimeconfig.json
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/bin/Debug/net7.0/HW_task13.dll
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/bin/Debug/net7.0/HW_task13.pdb
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.dll
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/refint/HW_task13.dll
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.pdb
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/HW_task13.genruntimeconfig.cache
+/home/hola/3_Языки программирования/Seminar 2/HW_task13/obj/Debug/net7.0/ref/HW_task13.dll
