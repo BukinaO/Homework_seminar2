@@ -1,12 +1,24 @@
-﻿// Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-int randomNumber = new Random().Next(1, 8);
-int Saturday = 6;
-int Sunday = 7;
-if(randomNumber == Saturday && randomNumber == Sunday)
+// Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+Console.WriteLine("Введите число: ");
+
+int number = Convert.ToInt32(Console.ReadLine());
+
+
+
+if(number == 6 || number == 7)
+
 {
+
     Console.WriteLine("да");
+
 }
+
 else
+
 {
+
     Console.WriteLine("нет");
+
 }
+
